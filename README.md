@@ -143,25 +143,31 @@ plt.show()
 ### 1. Smoothing Filters
 
 i) Using Averaging Filter
+
 ![OUTPUT](?raw=true)
 
 ii) Using Weighted Averaging Filter
+
 ![OUTPUT](?raw=true)
 
 iii) Using Gaussian Filter
+
 ![OUTPUT](?raw=true)
 
 
 iv) Using Median Filter
+
 ![OUTPUT](?raw=true)
 
 ### 2. Sharpening Filters
 
 
 i) Using Laplacian Kernal
+
 ![OUTPUT](?raw=true)
 
 ii) Using Laplacian Operator
+
 ![OUTPUT](?raw=true)
 
 ## Result:
